@@ -1,0 +1,4 @@
+name: DerpWorks
+main: com.yaricraft.derpworks.DerpWorks
+version: 1.0.0
+softdepend: [Vault]
